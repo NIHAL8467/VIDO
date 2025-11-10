@@ -1,0 +1,5 @@
+{
+  "name": "vido",
+  "description": "Turn words into cinema. AI that converts your imagination into 40-sec cinematic videos using Veo 3, NanoBanana, and Gemini Pro.",
+  "requestFramePermissions": []
+}
